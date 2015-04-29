@@ -19,7 +19,7 @@ body, ul, table, form{
 	-o-transition:margin-left 0.2s ease-in-out;
 	-ms-transition:margin-left 0.2s ease-in-out;
 	transition:margin-left 0.2s ease-in-out;
-}
+}  
 
 #canvas{
 	width: 960px;
