@@ -7,6 +7,11 @@
   src: url('../fonts/Stempel-Garamond-W01-Roman.woff') format('woff');
 }
 
+html{
+	overflow-x: scroll; 
+	overflow-y: scroll;
+}
+
 body, ul, table, form{
 	margin:0;
 	padding:0;
@@ -25,8 +30,6 @@ body, ul, table, form{
 	width: 960px;
 	height: 600px;
 	margin: 100px auto;
-	overflow-x: scroll; 
-	overflow-y: scroll;
 }
 
 #book-zoom{
