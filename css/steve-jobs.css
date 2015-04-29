@@ -14,7 +14,8 @@ body, ul, table, form{
 }
 
 html{
-	overflow : auto;
+	overflow-x :scroll;
+	overflow-y :scroll;
 }
 
 .animated{
