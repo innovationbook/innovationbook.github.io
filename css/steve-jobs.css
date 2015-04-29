@@ -13,6 +13,10 @@ body, ul, table, form{
 	overflow:hidden;
 }
 
+html{
+	overflow-y: scroll;
+}
+
 .animated{
 	-webkit-transition:margin-left 0.2s ease-in-out;
 	-moz-transition:margin-left 0.2s ease-in-out;
